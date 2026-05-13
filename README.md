@@ -1,7 +1,7 @@
-<img width="220" alt="create-account" src="https://github.com/user-attachments/assets/8eec1f00-41f7-4db1-97a4-68ad6697c3c4" />
-<img width="220" alt="reset-password" src="https://github.com/user-attachments/assets/a7d8fc9d-ba50-4404-b412-ef09657dd482" />
-<img width="220" alt="interface-app" src="https://github.com/user-attachments/assets/97bb1677-34e0-4117-a4fb-bbee5b60e52c" />
-<img width="220"  alt="dark-mode" src="https://github.com/user-attachments/assets/2708dd7d-fc5c-4ec9-9fe1-c988f175f890" />
+<img width="210" alt="create-account" src="https://github.com/user-attachments/assets/8eec1f00-41f7-4db1-97a4-68ad6697c3c4" />
+<img width="210" alt="reset-password" src="https://github.com/user-attachments/assets/a7d8fc9d-ba50-4404-b412-ef09657dd482" />
+<img width="210" alt="interface-app" src="https://github.com/user-attachments/assets/97bb1677-34e0-4117-a4fb-bbee5b60e52c" />
+<img width="210"  alt="dark-mode" src="https://github.com/user-attachments/assets/2708dd7d-fc5c-4ec9-9fe1-c988f175f890" />
 
 # 🔐 AuthFlow — SwiftUI Authentication & Form Validation
 
